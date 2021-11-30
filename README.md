@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet) </br>
+🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
 👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 
