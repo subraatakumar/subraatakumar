@@ -1,4 +1,5 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subrat!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subrat!](https://github.com/subratsir) 
+### Popularly known as Subrat Sir
 
 <a href="https://in.linkedin.com/in/subratsir">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
