@@ -50,7 +50,7 @@
 - [Online Educator at Udemy](https://www.udemy.com/user/subrat-dash-5/) - I have 30000+ students at Udemy.
 - [Online Educator at Fundoo](https://fundooclass.in/subject-detail.php?id=108) - Teaching web design live through Zoom and Google meet at FundooClass.com.
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir.subratsir)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir)
 
 ## Top Courses I Teach
 [<img width="250" height="auto" src="https://raw.githubusercontent.com/subratsir/FullStack-JavaScript-Developer-Course/main/1.jpg" >](https://github.com/subratsir/FullStack-JavaScript-Developer-Course)
