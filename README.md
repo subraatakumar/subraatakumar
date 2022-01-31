@@ -21,7 +21,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
 
 I've spent most of my adult life teaching computer to school students, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. But things changed! During covid I went through financial crisis. After that, I started to learn programming on the side to boost my resume.
 
