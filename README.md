@@ -23,6 +23,11 @@
 🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
 👨‍💻  I am passionate about Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
+I've spent most of my adult life teaching computer to school students, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. But things changed! During covid I went through financial crisis. After that, I started to learn programming on the side to boost my resume.
+
+It turns out that my love of language learning, logic, problem solving, and analytical thinking are really nicely combined in programming, and I choose to pursue a career in Full Stack Web development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.
+
+When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 
 <div align="center"> 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> -->
