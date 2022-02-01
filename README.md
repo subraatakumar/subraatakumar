@@ -59,6 +59,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 Sorted from basic to advanced
 - [Rock Paper Scissors JavaScript Game](https://github.com/subratsir/rock-paper-scissors-game-using-HTML-CSS-and-JavaScript-Guided-By-Subrat-Sir)
 - [Groceries List React App](https://github.com/subratsir/Groceries-List-Using-React)
-
+## Recent Certifications
+<img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/FreeCodeCampJavaScriptDSACertificate.JPG" />
 ## Top Courses I Teach
 [<img width="250" height="auto" src="https://raw.githubusercontent.com/subratsir/FullStack-JavaScript-Developer-Course/main/1.jpg" >](https://github.com/subratsir/FullStack-JavaScript-Developer-Course)
