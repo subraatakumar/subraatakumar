@@ -69,5 +69,3 @@ Sorted from basic to advanced
 ## Recent Certifications
 <img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/FreeCodeCampJavaScriptDSACertificate.JPG" />
 
-## Top Courses I Teach
-[<img width="250" height="auto" src="https://raw.githubusercontent.com/subratsir/FullStack-JavaScript-Developer-Course/main/1.jpg" >](https://github.com/subratsir/FullStack-JavaScript-Developer-Course)
