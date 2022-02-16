@@ -40,6 +40,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 </div>
 
 <div align="center"> 
+  <img src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"/>
   <figure><embed src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"></embed></figure>
 </div>
 
