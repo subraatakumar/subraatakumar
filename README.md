@@ -68,7 +68,7 @@ Sorted from basic to advanced
 ## Recent Certifications
 <img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/FreeCodeCampJavaScriptDSACertificate.JPG" />
 
-<div align="center"> 
+<!-- <div align="center"> 
   <img src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"/>
   <figure><embed src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"></embed></figure>
-</div>
+</div> -->
