@@ -39,6 +39,10 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&show_icons=true&theme=radical&hide=contribs,prs"/>
 </div>
 
+<div align="center"> 
+  <figure><embed src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"></embed></figure>
+</div>
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
