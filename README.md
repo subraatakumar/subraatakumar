@@ -35,7 +35,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 </div>
 
 <!-- <div align="center"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&show_icons=true&theme=radical&hide=contribs,prs"/>
 </div> -->
 
