@@ -53,9 +53,9 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 </div>
 
 ## My Experiences 🙌
-- [Computer Teacher](https://goo.gl/maps/P9ZNNadLeFGNrG3S9) - Worked as Computer Teacher at different schools at Computer Institutes till 2014 and after that Self employed as a Math and Computer teacher. The cumulative experience of all are 24+ years.
-- [Android App Developer](https://play.google.com/store/apps/details?id=in.ttrc.pgdca) - Developed different android apps using Java. Some of them are [Educational App](https://play.google.com/store/apps/details?id=in.ttrc.pgdca) , [Logo Guessing Game](https://play.google.com/store/apps/details?id=in.ttrc.pgdca), [Quotes and Memes App](https://play.google.com/store/apps/details?id=in.ttrc.quotesandmemes)
 - [Online Educator at Udemy](https://www.udemy.com/user/subrat-dash-5/) - I have 30000+ students at Udemy.
+- [Android App Developer](https://play.google.com/store/apps/details?id=in.ttrc.pgdca) - Developed different android apps using Java. Some of them are [Educational App](https://play.google.com/store/apps/details?id=in.ttrc.pgdca) , [Logo Guessing Game](https://play.google.com/store/apps/details?id=in.ttrc.pgdca), [Quotes and Memes App](https://play.google.com/store/apps/details?id=in.ttrc.quotesandmemes)
+- [Computer Teacher](https://goo.gl/maps/P9ZNNadLeFGNrG3S9) - Worked as Computer Teacher at different schools at Computer Institutes till 2014 and after that Self employed as a Math and Computer teacher. The cumulative experience of all are 24+ years.
 - [Online Educator at Fundoo](https://fundooclass.in/subject-detail.php?id=108) - Teaching web design live through Zoom and Google meet at FundooClass.com.
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir)
