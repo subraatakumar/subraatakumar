@@ -51,6 +51,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 </div>
 
+
 ## My Experiences 🙌
 
 | My Entertainment Zone React App (Feb 2022 - Present) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
@@ -82,12 +83,6 @@ My role involved:
 - 2. Auditing of the financial documents collected by employees during transaction.
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir)
-
-## Project Ideas For JavaScript Developer
-Sorted from basic to advanced
-- [Rock Paper Scissors JavaScript Game](https://github.com/subratsir/rock-paper-scissors-game-using-HTML-CSS-and-JavaScript-Guided-By-Subrat-Sir)
-- [Groceries List React App](https://github.com/subratsir/Groceries-List-Using-React)
-- [React Firebase Contact Form](https://github.com/subratsir/React-Contact-Us-Form-With-Firebase-Implementation)
 
 ## Recent Certifications
 <img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/FreeCodeCampJavaScriptDSACertificate.JPG" />
