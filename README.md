@@ -65,7 +65,12 @@ A web application which uses different external APIs and self-created Firebase D
 -	Teaching Beginners C, Java, JavaScript to 30000+ students on Udemy through pre-recorded video tutorials. [Link to my profile](https://www.udemy.com/user/subrat-dash-5/).
 - Teaching Live through Zoom or Meet to Students. Link to Review of my students. [1](https://www.youtube.com/watch?v=KiUAfm2HAng) [2](https://www.youtube.com/watch?v=KiUAfm2HAng)
 - Created some websites for local NGOs and Schools using WordPress. [1](https://ttrc.in/) [2](http://womenscollegerayagada.in/) [3](https://deeptisociety.in/) [4](http://rcdrayagada.org/) [5](http://ritamrayagada.in/)
-- Developed Android app independently from scratch using Android Studio, Java and Firebase. Used features like 1. Firebase Authentication 2. Firebase Database 3. Firebase Storage. Application has 200+ hours of video tutorials developed by me as well as some video tutorials of other co-instructors. This application provides features like 1. Video Tutorials which can be played online or can be downloaded for offline playing. 2. PDF Notes for reading 3. Timer and Non-Timer quizzes for interview preparation. [Link to Developer Account](https://play.google.com/store/apps/dev?id=5931395958067461847) and [App](https://play.google.com/store/apps/details?id=in.ttrc.pgdca)
+- Developed Android app independently from scratch using Android Studio, Java and Firebase. Used features like 1. Firebase Authentication 2. Firebase Database 3. Firebase Storage. Application has 200+ hours of video tutorials developed by me as well as some video tutorials of other co-instructors. 
+
+This application provides features like 
+- 1. Video Tutorials which can be played online or can be downloaded for offline playing. 
+- 2. PDF Notes for reading 
+- 3. Timer and Non-Timer quizzes for interview preparation. [Link to Developer Account](https://play.google.com/store/apps/dev?id=5931395958067461847) and [App](https://play.google.com/store/apps/details?id=in.ttrc.pgdca)
 
 | Computer Officer (Apr 2014 - Jan 2016) |
 |---|
