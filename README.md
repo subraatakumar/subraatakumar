@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subrat!](https://github.com/subratsir) 
-### Popularly known as Subrat Sir
+### Popularly known as Subrat Sir 
 
 <a href="https://in.linkedin.com/in/subratsir">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -22,10 +22,9 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
-
-I've spent most of my adult life teaching computer to school students, and my love of learning and interest in pedagogy constantly drive me to teach myself new things. But things changed! During covid I went through financial crisis. After that, I started to learn programming on the side to boost my resume.
-
-It turns out that my love of language learning, logic, problem solving, and analytical thinking are really nicely combined in programming, and I choose to pursue a career in Full Stack Web development instead. I haven't looked back since, and continue to take joy in learning how to solve new problems every day.
+- I have 30000+ students in [Udemy Courses (C, Java, JavaScript) ](https://www.udemy.com/user/subrat-dash-5/)
+- I have developed 10+ WordPress websites for local businesses
+- developed 30+ android applications from scratch using Android Studio, Java and Firebase for different Computer Educational Institutes in Odisha, India. 
 
 When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 
