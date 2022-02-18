@@ -69,7 +69,9 @@ A web application which uses different external APIs and self-created Firebase D
 
 | Computer Officer (Apr 2014 - Jan 2016) |
 |---|
+
 | Worked as a computer officer at a NBFC company in India named Sahara India. Got 3 promotions during this period. Rewarded 4 times as best employee of the year. During this period, I worked with 20+ junior team mates and 500+ business promoters. My role involved: 1. Installation of the software provided by company and train employee to use that 2. Auditing of the financial documents collected by employees during transaction. |
+|---|
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir)
 
