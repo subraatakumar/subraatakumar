@@ -58,9 +58,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
   <code><img height="40" src="https://cdn.icon-icons.com/icons2/1088/PNG/512/1485282157-adobe-photoshop-raster-graphics-editor-cc-creative-cloud_78285.png"></code>
   <code><img height="40" src="https://github.com/subratsir/subratsir/blob/main/images/mui.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+  <code><img height="40" src="https://cdn.icon-icons.com/icons2/691/PNG/128/google_firebase_icon-icons.com_61474.png"></code>
 </div>
 
 <h2> My Experiences 🙌 </h2>
