@@ -38,8 +38,10 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&show_icons=true&theme=radical&hide=contribs,prs"/>
 </div> -->
 
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
+|
 <div>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -49,7 +51,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 </div>
-
+|
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tools and Techs
 
 <div>
@@ -60,6 +62,8 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
   <code><img height="40" src="https://github.com/subratsir/subratsir/blob/main/images/mui.png"></code>
   <code><img height="40" src="https://cdn.icon-icons.com/icons2/691/PNG/128/google_firebase_icon-icons.com_61474.png"></code>
 </div>
+|
+|-|-|
 
 <h2> My Experiences 🙌 </h2>
 
