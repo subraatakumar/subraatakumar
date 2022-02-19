@@ -23,7 +23,7 @@
 🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
 - I have 30000+ students in [Udemy Courses (C, Java, JavaScript) ](https://www.udemy.com/user/subrat-dash-5/)
-- I have developed 10+ WordPress websites for local businesses
+- I have developed 10+ [WordPress websites](#my-experiences) for local businesses
 - developed [android applications](https://play.google.com/store/apps/dev?id=5931395958067461847) from scratch using Android Studio, Java and Firebase for different Computer Educational Institutes in Odisha, India. These applications has 500+ Hrs video tutorials, PDF Notes, Timer and Non Timer MCQs for interview prapration.
 
 When I'm not building web apps or teaching, I'm either watching sci-fi movies.
@@ -52,7 +52,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 </div>
 
 
-## My Experiences 🙌
+## My Experiences 🙌 
 
 | My Entertainment Zone React App (Feb 2022 - Present) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
 |---|-|-|
