@@ -52,7 +52,7 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 </div>
 
 
-<h2 id="my-experiences"> My Experiences 🙌 </h2>
+<h2> My Experiences 🙌 </h2>
 
 | My Entertainment Zone React App (Feb 2022 - Present) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
 |---|-|-|
@@ -65,7 +65,7 @@ A web application which uses different external APIs and self-created Firebase D
 
 -	Teaching Beginners C, Java, JavaScript to 30000+ students on Udemy through pre-recorded video tutorials. [Link to my profile](https://www.udemy.com/user/subrat-dash-5/).
 - Teaching Live through Zoom or Meet to Students. Link to Review of my students. [1](https://www.youtube.com/watch?v=KiUAfm2HAng) [2](https://www.youtube.com/watch?v=KiUAfm2HAng)
-- Created some websites for local NGOs and Schools using WordPress. [1](https://ttrc.in/) [2](http://womenscollegerayagada.in/) [3](https://deeptisociety.in/) [4](http://rcdrayagada.org/) [5](http://ritamrayagada.in/)
+- <span id="my-experiences">Created some websites for local NGOs and Schools using WordPress. [1](https://ttrc.in/) [2](http://womenscollegerayagada.in/) [3](https://deeptisociety.in/) [4](http://rcdrayagada.org/) [5](http://ritamrayagada.in/)</span>
 - Developed Android app independently from scratch using Android Studio, Java and Firebase. Used features like 1. Firebase Authentication 2. Firebase Database 3. Firebase Storage. Application has 200+ hours of video tutorials developed by me as well as some video tutorials of other co-instructors. 
 
 This application provides features like 
