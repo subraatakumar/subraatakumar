@@ -24,7 +24,7 @@
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
 - I have 30000+ students in [Udemy Courses (C, Java, JavaScript) ](https://www.udemy.com/user/subrat-dash-5/)
 - I have developed 10+ WordPress websites for local businesses
-- developed 30+ android applications from scratch using Android Studio, Java and Firebase for different Computer Educational Institutes in Odisha, India. 
+- developed [android applications](https://play.google.com/store/apps/dev?id=5931395958067461847) from scratch using Android Studio, Java and Firebase for different Computer Educational Institutes in Odisha, India. These applications has 500+ Hrs video tutorials, PDF Notes, Timer and Non Timer MCQs for interview prapration.
 
 When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 
