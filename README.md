@@ -76,17 +76,20 @@ When I'm not developing software or teaching, I'm either watching sci-fi movies.
 
 <hr/>
 
-<h2> My Experiences 🙌 </h2>
+<h2> My Projects 🙌 </h2>
 
-| Mi Store Home Page | [GitHub Repo](https://github.com/subratsir/mistore-homepage) | [Live Demo](https://mistorehomepage.web.app/) |
+| Mi Store Clone React App (Feb 2022 - Feb 2022) | [GitHub Repo](https://github.com/subratsir/mistore-homepage) | [Live Demo](https://mistorehomepage.web.app/) |
 |---|-|-|
 
-MI Store front end clone using hardcoded data.
+MI Store Home Page front end clone using hardcoded data.
 
-| My Entertainment Zone React App (Feb 2022 - Present) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
+| My Entertainment Zone React App (Jan 2022 - Jan 2022) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
 |---|-|-|
 
 A web application which uses The Mivie DB external APIs to display 1. Movie or TV shows list using Movie API 2. Logo name guessing Quiz.
+
+
+<h2> My Experiences 🙌 </h2>
 
 
 | Freelance Software Developer ( Jan 2016-present) |
