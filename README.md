@@ -80,18 +80,12 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 A web application which uses different external APIs and self-created Firebase Data. I am still working on it because it is a never-ending process. The features planned to implement are 1. Movie or TV shows list using Movie API 2. Logo name guessing Quiz 3. Weather information using Weather API 4. Watch news using News API and many more.
 
 
-| Freelance Computer Teacher and Software Developer ( Jan 2016-present) |
+| Freelance Software Developer ( Jan 2016-present) |
 |---|
 
--	Teaching Beginners C, Java, JavaScript to 30000+ students on Udemy through pre-recorded video tutorials. [Link to my profile](https://www.udemy.com/user/subrat-dash-5/).
-- Teaching Live through Zoom or Meet to Students. Link to Review of my students. [1](https://www.youtube.com/watch?v=KiUAfm2HAng) [2](https://www.youtube.com/watch?v=KiUAfm2HAng)
-- <span id="my-experiences">Created some websites for local NGOs and Schools using WordPress. [1](https://ttrc.in/) [2](http://womenscollegerayagada.in/) [3](https://deeptisociety.in/) [4](http://rcdrayagada.org/) [5](http://ritamrayagada.in/)</span>
-- <span id="android-applications">Developed Android app independently from scratch using Android Studio, Java and Firebase. Used features like 1. Firebase Authentication 2. Firebase Database 3. Firebase Storage. Application has 200+ hours of video tutorials developed by me as well as some video tutorials of other co-instructors.</span> 
-
-This application provides features like 
-- 1. Video Tutorials which can be played online or can be downloaded for offline playing. 
-- 2. PDF Notes for reading 
-- 3. Timer and Non-Timer quizzes for interview preparation. [Link to Developer Account](https://play.google.com/store/apps/dev?id=5931395958067461847) and [App](https://play.google.com/store/apps/details?id=in.ttrc.pgdca)
+-	Worked on different projects as a freelancer as per client requirement. Developed android applications using Java, and Firebase for self startup TTRC E-Learning. Teaching computer programming on Udemy, Fundoo, Eduonix and self start up TTRC E-Learning.
+-	[Link to my Udemy Courses](https://www.udemy.com/user/subrat-dash-5/).
+- [Google Play Store Developer account link](https://play.google.com/store/apps/dev?id=5931395958067461847) and [App Link](https://play.google.com/store/apps/details?id=in.ttrc.pgdca)
 
 | Computer Officer (Apr 2014 - Jan 2016) |
 |---|
