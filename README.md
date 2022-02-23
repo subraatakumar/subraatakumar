@@ -24,11 +24,15 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
-- I have 30000+ students in [Udemy Courses (C, Java, JavaScript) ](https://www.udemy.com/user/subrat-dash-5/)
-- I have developed 10+ [WordPress websites](#my-experiences) for local businesses
-- developed [android applications](#android-applications) from scratch using Android Studio, Java and Firebase for different Computer Educational Institutes in Odisha, India. These applications has 500+ Hrs video tutorials, PDF Notes, Timer and Non Timer MCQs for interview prapration.
 
-When I'm not building web apps or teaching, I'm either watching sci-fi movies.
+A Hardworking Self Motivated Freelance Software developer :
+• With Entrepreneurial mind set worked at no.1 corporate sector in India for 12 years 
+• As well as worked on self startup, has interest in modern app development and SOLID design.
+• having strong data structure ability
+
+Interested to work as a fulltime Remote JavaScript/ React developer.
+
+When I'm not developing software or teaching, I'm either watching sci-fi movies.
 
 <div align="center"> 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> -->
