@@ -74,10 +74,15 @@ When I'm not building web apps or teaching, I'm either watching sci-fi movies.
 
 <h2> My Experiences 🙌 </h2>
 
+| Mi Store Home Page | [GitHub Repo](https://github.com/subratsir/mistore-homepage) | [Live Demo](https://mistorehomepage.web.app/) |
+|---|-|-|
+
+MI Store front end clone using hardcoded data.
+
 | My Entertainment Zone React App (Feb 2022 - Present) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
 |---|-|-|
 
-A web application which uses different external APIs and self-created Firebase Data. I am still working on it because it is a never-ending process. The features planned to implement are 1. Movie or TV shows list using Movie API 2. Logo name guessing Quiz 3. Weather information using Weather API 4. Watch news using News API and many more.
+A web application which uses The Mivie DB external APIs to display 1. Movie or TV shows list using Movie API 2. Logo name guessing Quiz.
 
 
 | Freelance Software Developer ( Jan 2016-present) |
