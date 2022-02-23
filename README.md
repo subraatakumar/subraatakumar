@@ -30,7 +30,7 @@ A Hardworking Self Motivated Freelance Software developer :
 • As well as worked on self startup, has interest in modern app development and SOLID design.
 • having strong data structure ability
 
-Interested to work as a fulltime Remote JavaScript/ React developer.
+Open to work as a fulltime Remote JavaScript/ React developer.
 
 When I'm not developing software or teaching, I'm either watching sci-fi movies.
 
