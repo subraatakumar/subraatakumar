@@ -34,17 +34,18 @@ Open to work as a fulltime Remote JavaScript/ React developer.
 
 When I'm not developing software or teaching, I'm either watching sci-fi movies.
 
+
+## My Github Status 
+<details><summary>CLick to expand</summary>
+  <div align="center"> 
+  <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=subratsir&show_icons=true&theme=radical&hide=contribs,prs"/>
+  </div>
 <div align="center"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=subratsir&show_icons=true&theme=radical&hide=contribs,prs"/>
-</div>
-
-<!-- <div align="center"> 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/> 
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&layout=compact&theme=radical"/>  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratsir&show_icons=true&theme=radical&hide=contribs,prs"/>
-</div> -->
-
-
+</div>
+</details>
 
 <table>
   <tr>
