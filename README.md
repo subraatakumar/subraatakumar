@@ -26,9 +26,13 @@
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
 
 Programming is my passion, fashion, and obsession.
+
 As a programming's fan,I love to roam the world of programming.
+
 I have won html5,css3, Modern JavaScript, React, React Native, Node, Express,
+
 Mongodb, Rest API, Bootstrap, Tailwind, Material UI, Java, Python, Firebase, Visual Foxpro (SQL Database) and done several projects and trained freshers to be ready for their job.
+
 Also, I am ready to deal with the new technology and the challenges that come with it.
 
 ## My Github Status 
