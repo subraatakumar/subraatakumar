@@ -25,15 +25,11 @@
 🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
 
-A Hardworking Self Motivated Freelance Software developer :
-• With Entrepreneurial mind set worked at no.1 corporate sector in India for 12 years 
-• As well as worked on self startup, has interest in modern app development and SOLID design.
-• having strong data structure ability
-
-Open to work as a fulltime Remote JavaScript/ React developer.
-
-When I'm not developing software or teaching, I'm either watching sci-fi movies.
-
+Programming is my passion, fashion, and obsession.
+As a programming's fan,I love to roam the world of programming.
+I have won html5,css3, Modern JavaScript, React, React Native, Node, Express,
+Mongodb, Rest API, Bootstrap, Tailwind, Material UI, Java, Python, Firebase, Visual Foxpro (SQL Database) and done several projects and trained freshers to be ready for their job.
+Also, I am ready to deal with the new technology and the challenges that come with it.
 
 ## My Github Status 
 <details><summary>CLick to expand</summary>
