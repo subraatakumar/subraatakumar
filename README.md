@@ -22,7 +22,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a passionate computer teacher. </br>
+🎓 I’m an Open-Source enthusiast. </br>
 👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
 
 Programming is my passion, fashion, and obsession.
