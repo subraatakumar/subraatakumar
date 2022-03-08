@@ -73,8 +73,7 @@ Also, I am ready to deal with the new technology and the challenges that come wi
   <code><img height="40" src="https://github.com/subratsir/subratsir/blob/main/images/mui.png"></code>
   <code><img height="40" src="https://cdn.icon-icons.com/icons2/691/PNG/128/google_firebase_icon-icons.com_61474.png"></code>
   <code><img height="40" src="https://github.com/subratsir/subratsir/blob/main/images/mobx.jpg"></code>  
-    
-    </td>
+  </td>
   </tr></table>
 
 <hr/>
