@@ -80,12 +80,17 @@ Also, I am ready to deal with the new technology and the challenges that come wi
 
 <h2> My Projects 🙌 </h2>
 
-| Mi Store Clone React App (Feb 2022 - Feb 2022) | [GitHub Repo](https://github.com/subratsir/mistore-homepage) | [Live Demo](https://mistorehomepage.web.app/) |
+| Skincare Routine Acne Journal App |  | [Live Demo](https://play.google.com/store/apps/details?id=com.skintheory.skintheory) |
+|---|-|-|
+
+The scientific acne & skincare tracker app. Technology used: React Native, Mobx, HTML, CSS
+
+| Mi Store Clone React App | [GitHub Repo](https://github.com/subratsir/mistore-homepage) | [Live Demo](https://mistorehomepage.web.app/) |
 |---|-|-|
 
 MI Store Home Page front end clone using hardcoded data.
 
-| My Entertainment Zone React App (Jan 2022 - Jan 2022) | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
+| My Entertainment Zone React App | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
 |---|-|-|
 
 A web application which uses The Mivie DB external APIs to display 1. Movie or TV shows list using Movie API 2. Logo name guessing Quiz.
@@ -93,11 +98,15 @@ A web application which uses The Mivie DB external APIs to display 1. Movie or T
 
 <h2> My Experiences 🙌 </h2>
 
-
-| Freelance Software Developer ( Jan 2016-present) |
+| Freelance Software Developer ( Feb 2020-present) |
 |---|
 
--	Worked on different projects as a freelancer as per client requirement. Developed android applications using Java, and Firebase for self startup TTRC E-Learning. Teaching computer programming on Udemy, Fundoo, Eduonix and self start up TTRC E-Learning.
+-	Worked on different projects as a freelancer as per client requirement. Developed android applications using React Native, Java, and Firebase. Developed different websites using HTML, CSS, JS, React, Material UI, Bootstrap and WordPress.
+
+| Co-Founder : TTRC E-Learning ( Jan 2016-Feb 2020) |
+|---|
+
+-	Developed android applications using Java, and Firebase and website using HTML, CSS, PHP and Wordpress for self startup TTRC E-Learning. During this period Teaching computer programming on Udemy, Fundoo, Eduonix and self start up TTRC E-Learning.
 -	[Link to my Udemy Courses](https://www.udemy.com/user/subrat-dash-5/).
 - [Google Play Store Developer account link](https://play.google.com/store/apps/dev?id=5931395958067461847) and [App Link](https://play.google.com/store/apps/details?id=in.ttrc.pgdca)
 
