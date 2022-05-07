@@ -1,7 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subrat!](https://drive.google.com/file/d/1ycPmdNNllydRI8cPDJsofvxz8kN97yN3/view?usp=sharing) 
-### [Popularly known as Subrat Sir](https://drive.google.com/file/d/1ycPmdNNllydRI8cPDJsofvxz8kN97yN3/view?usp=sharing) 
+### [Download Resume](https://drive.google.com/file/d/1pwmy-iAvWmEFlFnzJG9dWX0AbzoZ3Asa/view?usp=sharing) 
 
-(Google Search Keyword Subrat Sir)
 
 <a href="https://www.linkedin.com/in/subrata-ku-das/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
