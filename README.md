@@ -22,7 +22,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast. </br>
-👨‍💻  I am passionate about Full Stack Web Development & I enjoy learning new things. </br>
+👨‍💻  I am passionate about JavaScript Mobile Development & I enjoy learning new things. </br>
 
 Programming is my passion, fashion, and obsession.
 
