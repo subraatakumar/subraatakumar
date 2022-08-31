@@ -1,6 +1,4 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Subrat!](https://drive.google.com/file/d/1ycPmdNNllydRI8cPDJsofvxz8kN97yN3/view?usp=sharing) 
-### [Download Resume](https://drive.google.com/file/d/10ss8DRXU4FbonE_azyxy5V0bfPtX-mUz/view?usp=sharing) 
-
 
 <a href="https://www.linkedin.com/in/subrata-ku-das/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -8,7 +6,7 @@
 <a href="https://twitter.com/SubratSirIndia">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:subrat.ku.dash@gmail.com">
+<a href="mailto:codingsubrata@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTCmj3TOBxI_5f1J-n7kN5A">
@@ -21,18 +19,29 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast. </br>
-👨‍💻  I am passionate about JavaScript Mobile Development & I enjoy learning new things. </br>
+🎓 I’m an Open-Source enthusiast, Engineer by profession …. Teacher by heart ♥️ 
+👨‍💻 I am passionate about JavaScript Hybrid (React Native) Mobile Development 
+👉 I enjoy learning new things.
 
-Programming is my passion, fashion, and obsession.
+A Hardworking Self Motivated React Native Software developer :
+• With an Entrepreneurial mindset worked in the no.1 corporate sector in India for 12 years 	 
+• has an interest in modern hybrid app development and SOLID design.
+• having strong data structure ability
 
-As a programming's fan,I love to roam the world of programming.
+Skills :
+ - Front-end: React-Native | JavaScript | TypeScript | HTML5 | CSS3
+ - State Management: Redux | Mobx | Context API
+ - Testing: Jest
+ - Knowledge of Native Code: Java for Android
+ - Version Control: Git, Gitlab, Github
+ - Database: MongoDB, Firebase Realtime Database, Visual Foxpro(SQL database), MySql
+ - Design tools: Photoshop, Canva
+ - Others: Facebook Login API, Google API, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Google Map, Geo Location, Google Places, SOLID design
+ - Projects: Blog App | E-Commerce App | EdTech App 
+ - Communication Language Proficiency: English | Hindi
+ - Soft Skills: Leadership, teamwork, remote work, self-motivated, time management
 
-I have won html5,css3, Modern JavaScript, React, React Native, Node, Express,
-
-Mongodb, Rest API, Bootstrap, Tailwind, Material UI, Java, Python, Firebase, Visual Foxpro (SQL Database) and done several projects and trained freshers to be ready for their job.
-
-Also, I am ready to deal with the new technology and the challenges that come with it.
+When I'm not building software or teaching, I'm either watching sci-fi movies or writing blogs.
 
 ## My Github Status 
 <details><summary>CLick to expand</summary>
@@ -76,47 +85,6 @@ Also, I am ready to deal with the new technology and the challenges that come wi
   </tr></table>
 
 <hr/>
-
-<h2> My Projects 🙌 </h2>
-
-| Skincare Routine Acne Journal App |  | [Live Demo](https://play.google.com/store/apps/details?id=com.skintheory.skintheory) |
-|---|-|-|
-
-The scientific acne & skincare tracker app. Technology used: React Native, Mobx, HTML, CSS
-
-| Mi Store Clone React App | [GitHub Repo](https://github.com/subratsir/mistore-homepage) | [Live Demo](https://mistorehomepage.web.app/) |
-|---|-|-|
-
-MI Store Home Page front end clone using hardcoded data.
-
-| My Entertainment Zone React App | [GitHub Repo](https://github.com/subratsir/Entertainment-Zone) | [Live Demo](https://my-entertainment-zone.web.app/) |
-|---|-|-|
-
-A web application which uses The Mivie DB external APIs to display 1. Movie or TV shows list using Movie API 2. Logo name guessing Quiz.
-
-
-<h2> My Experiences 🙌 </h2>
-
-| Freelance Software Developer ( Feb 2020-present) |
-|---|
-
--	Worked on different projects as a freelancer as per client requirement. Developed android applications using React Native, Java, and Firebase. Developed different websites using HTML, CSS, JS, React, Material UI, Bootstrap and WordPress.
-
-| Co-Founder : TTRC E-Learning ( Jan 2016-Feb 2020) |
-|---|
-
--	Developed android applications using Java, and Firebase and website using HTML, CSS, PHP and Wordpress for self startup TTRC E-Learning. During this period Teaching computer programming on Udemy, Fundoo, Eduonix and self start up TTRC E-Learning.
--	[Link to my Udemy Courses](https://www.udemy.com/user/subrat-dash-5/).
-- [Google Play Store Developer account link](https://play.google.com/store/apps/dev?id=5931395958067461847) and [App Link](https://play.google.com/store/apps/details?id=in.ttrc.pgdca)
-
-| Computer Officer (Apr 2014 - Jan 2016) |
-|---|
-
-Worked as a computer officer at a NBFC company in India named Sahara India. Got 3 promotions during this period. Rewarded 4 times as best employee of the year. During this period, I worked with 20+ junior team mates and 500+ business promoters. 
-
-My role involved: 
-- 1. Installation of the software provided by company and train employee to use that 
-- 2. Auditing of the financial documents collected by employees during transaction.
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir)
 
