@@ -24,9 +24,10 @@
 👉 I enjoy learning new things.
 
 A Hardworking Self Motivated React Native Software developer :
-• With an Entrepreneurial mindset worked in the no.1 corporate sector in India for 12 years 	 
-• has an interest in modern hybrid app development and SOLID design.
-• having strong data structure ability
+
+- With an Entrepreneurial mindset worked in the no.1 corporate sector in India for 12 years 	 
+- has an interest in modern hybrid app development and SOLID design.
+- having strong data structure ability
 
 Skills :
  - Front-end: React-Native | JavaScript | TypeScript | HTML5 | CSS3
