@@ -89,8 +89,18 @@ When I'm not building software or teaching, I'm either watching sci-fi movies or
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=subratsir)
 
 ## Recent Certifications
-<img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/FreeCodeCampJavaScriptDSACertificate.JPG" />
-<img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/images/hackerRankReact.png" />
+
+<table>
+  <tr><td>
+<img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/FreeCodeCampJavaScriptDSACertificate.JPG" />    
+    </td>
+  <td>
+<img width="250" height="auto" src="https://github.com/subratsir/subratsir/blob/main/images/hackerRankReact.png" />    
+    </td>
+  </tr>
+</table>
+
+
 <!-- <div align="center"> 
   <img src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"/>
   <figure><embed src="https://wakatime.com/share/@b8a4ab78-b927-4bfc-9e04-d80f831b38cd/d8bd219e-e02e-4bb6-a52b-e805c01ece40.svg"></embed></figure>
