@@ -42,7 +42,7 @@ Skills :
  - Communication Language Proficiency: English | Hindi
  - Soft Skills: Leadership, teamwork, remote work, self-motivated, time management
 
-When I'm not building software or teaching, I'm either watching sci-fi movies or writing blogs.
+When I'm neither building software nor teaching, I'm either watching sci-fi movies or writing blogs.
 
 ## My Github Status 
 <details><summary>CLick to expand</summary>
