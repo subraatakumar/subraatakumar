@@ -71,8 +71,7 @@ When I'm neither building software nor teaching, I'm either watching sci-fi movi
 <img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/hackerRankReact.png?alt=media&token=c891d9f6-d2fd-4ceb-b2c3-6d49e4082630" />    
     </td>
       <td>
-<img width="250" height="auto" src="
-    https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/JS_Certificate.png?alt=media&token=0245b4fc-2b40-4c6c-b5a0-4a2d4ce71db7" />    
+<img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/JS_Certificate.png?alt=media&token=0245b4fc-2b40-4c6c-b5a0-4a2d4ce71db7" />    
     </td>
   </tr>
 </table>
