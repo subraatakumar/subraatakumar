@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/subrata-ku-das/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/SubratSirIndia">
+<a href="https://twitter.com/codingSubrata">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:codingsubrata@gmail.com">
