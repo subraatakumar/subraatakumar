@@ -75,13 +75,13 @@ When I'm neither building software nor teaching, I'm either watching sci-fi movi
     </td>
   </tr>
     <tr><td>
-<img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/FreeCodeCampJavaScriptDSACertificate.JPG?alt=media&token=92925bd3-b290-4777-83c0-c161ce068378" />    
+<img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/kotlin_certificate.jpg?alt=media&token=537e32a1-67b7-4e34-b7ca-d9940d54627a" />    
     </td>
   <td>
-<img width="250" height="auto" src="" />    
+
     </td>
       <td>
-<img width="250" height="auto" src="" />    
+
     </td>
   </tr>
 </table>
