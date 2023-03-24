@@ -74,6 +74,16 @@ When I'm neither building software nor teaching, I'm either watching sci-fi movi
 <img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/JS_Certificate.png?alt=media&token=0245b4fc-2b40-4c6c-b5a0-4a2d4ce71db7" />    
     </td>
   </tr>
+    <tr><td>
+<img width="250" height="auto" src="https://firebasestorage.googleapis.com/v0/b/neostats.appspot.com/o/FreeCodeCampJavaScriptDSACertificate.JPG?alt=media&token=92925bd3-b290-4777-83c0-c161ce068378" />    
+    </td>
+  <td>
+<img width="250" height="auto" src="" />    
+    </td>
+      <td>
+<img width="250" height="auto" src="" />    
+    </td>
+  </tr>
 </table>
 
 
