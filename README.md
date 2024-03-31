@@ -8,17 +8,13 @@ I'm a full-stack software developer 👨‍💻 based in Odisha, India 🇮🇳.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subraatakumar/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subraatakumar@gmail.com)
 
+## About Me 🚀
 
-### About Me 🚀
 🎓 I’m an Open-Source enthusiast, Engineer by profession …. Teacher by heart ♥️ 
-👨‍💻 I am passionate about JavaScript Hybrid (React Native) Mobile Development 
-👉 I enjoy learning new things.
-
-A Hardworking Self Motivated React Native Software developer :
-
-- With an Entrepreneurial mindset worked in the no.1 corporate sector in India for 12 years 	 
-- has an interest in modern hybrid app development and SOLID design.
-- having strong data structure ability
+💼 I specialize in mobile development with React Native 📱, Java and Kotlin, bringing 7 years of experience to the table.
+🚀 My journey as a software developer has been a thrilling ride 🎢, filled with exciting challenges 💪.
+🌐 You can often find me working on some cool projects or exploring new technologies.
+📧 If you want to get in touch, feel free to reach out at subraatakumar@gmail.com 📬.
 
 
 ### Exceptional Challenges 🎯
@@ -34,7 +30,7 @@ A Hardworking Self Motivated React Native Software developer :
  - Front-end: React-Native | JavaScript | TypeScript | HTML5 | CSS3
  - State Management: Redux | Mobx | Context API
  - Testing: Jest
- - Knowledge of Native Code: Java for Android
+ - Knowledge of Native Code: Java for Android, Kotlin
  - Version Control: Git, Gitlab, Github
  - Database: MongoDB, Firebase Realtime Database, Visual Foxpro(SQL database), MySql, SQLite
  - Design tools: Photoshop, Canva
