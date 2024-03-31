@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Subrata!](https://drive.google.com/file/d/1zzjdNp5NrPEGOZVfGTsFJirt2OJzYIzg/view?usp=sharing) 
+## Hey 👋, I'm [Subrata!]() 
 
 
 <a href="https://www.linkedin.com/in/subrata-ku-das/">
