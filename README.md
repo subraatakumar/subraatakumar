@@ -1,33 +1,13 @@
 ## Hey 👋, I'm [Subrata!]() 
 
 
-I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩🇪.
+I'm a full-stack software developer 👨‍💻 based in Odisha, India 🇮🇳.
 
 ### 🔗 Connect with me on:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black&color=white)](https://twitter.com/subraatakumar) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subraatakumar/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subraatakumar@gmail.com)
 
-![](https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75)
-
-<a href="https://www.linkedin.com/in/subrata-ku-das/">
-  <img align="left" width="24px" src="https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75" style="background-color:white" />
-</a>
-<a href="https://twitter.com/codingSubrata">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:codingsubrata@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCTCmj3TOBxI_5f1J-n7kN5A">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://discord.gg/KYYWfcVU">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-
-<br />
-<br />
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast, Engineer by profession …. Teacher by heart ♥️ 
