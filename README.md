@@ -11,7 +11,7 @@ I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩�
 ![](https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75)
 
 <a href="https://www.linkedin.com/in/subrata-ku-das/">
-  <img align="left" width="24px" src="https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75"  />
+  <img align="left" width="24px" src="https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75" style="background-color:white" />
 </a>
 <a href="https://twitter.com/codingSubrata">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
