@@ -8,6 +8,7 @@ I'm a full-stack software developer 👨‍💻 based in Cologne, Germany 🇩�
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subraatakumar/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subraatakumar@gmail.com)
 
+![](https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75)
 
 <a href="https://www.linkedin.com/in/subrata-ku-das/">
   <img align="left" width="24px" src="https://topmate.io/_next/image?url=%2Fimages%2Fcommon%2Ftopmate-light.svg&w=640&q=75"  />
