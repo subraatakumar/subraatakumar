@@ -7,7 +7,7 @@ I'm a full-stack software developer 👨‍💻 based in Odisha, India 🇮🇳.
 ### 🔗 Connect with me on:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black&color=white)](https://twitter.com/subraatakumar) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subraatakumar/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subraatakumar@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codingsubrata@gmail.com)
 
 ## About Me 🚀
 
