@@ -28,12 +28,12 @@ I'm a full-stack software developer 👨‍💻 based in Odisha, India 🇮🇳.
 
 ### Skills 🏂
 
- - Front-end: React-Native | JavaScript | TypeScript | HTML5 | CSS3
- - State Management: Redux | Mobx | Context API
- - Testing: Jest
+ - Front-end: React-Native | Expo | JavaScript | TypeScript | HTML5 | CSS3
+ - State Management: Redux | Mobx | Context API | Justand
+ - Testing: Jest | React Testing Library
  - Knowledge of Native Code: Java for Android, Kotlin
  - Version Control: Git, Gitlab, Github
- - Database: MongoDB, Firebase Realtime Database, Visual Foxpro(SQL database), MySql, SQLite
+ - Database: MongoDB, Firebase Realtime Database, Visual Foxpro(SQL database), MySql, SQLite, Realm
  - Design tools: Photoshop, Canva
  - Others: Facebook Login API, Google API, Firebase Authentication, Firebase Crashlytics, Firebase Analytics, Google Map, Geo Location, Google Places, SOLID design
  - Projects: Blog App | E-Commerce App | EdTech App 
