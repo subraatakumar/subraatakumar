@@ -2,7 +2,7 @@
 
 ![](https://github.com/subraatakumar/subraatakumar/blob/main/images/Subrata%20Das.png)
 
-I'm a full-stack software developer 👨‍💻 based in Odisha, India 🇮🇳.
+I'm a full-stack software developer 👨‍💻 based in Bengaluru, India 🇮🇳.
 
 ### 🔗 Connect with me on:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=black&color=white)](https://twitter.com/subraatakumar) 
