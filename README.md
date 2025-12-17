@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [Subrata!]() 
 
-![](https://github.com/subraatakumar/subraatakumar/blob/main/images/Subrata%20Das.png)
-
 ### React Native Architect • Open Source Maintainer • Platform Engineer
 
 ![Subrata Das](https://github.com/subraatakumar/subraatakumar/blob/main/images/Subrata%20Das.png)
