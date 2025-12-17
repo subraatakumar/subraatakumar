@@ -8,7 +8,9 @@ I design and build **scalable mobile platforms**, not just apps.
 My work spans **React Native architecture**, **native Android/iOS integration**, **JSI & C++**, and **developer tooling**.
 
 📍 Bengaluru, India 🇮🇳
+
 🎓 Engineer by profession, **teacher by heart** ❤️
+
 🧠 Passionate about **clean architecture, memory safety, and long-term maintainability**
 
 ---
